@@ -1,0 +1,2 @@
+ora - Average: 56.67, Grade: D
+likho - Average: 66.67, Grade: C
